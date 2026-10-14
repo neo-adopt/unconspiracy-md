@@ -10,6 +10,24 @@ Practical Markdown checklists from Anirudh Badam's *The AI Unconspiracy* that yo
 - [`5d_test.md`](checklists/5d_test.md) — applies Anirudh Badam's five-D framework: Disruptor, Delivering, Disintermediation, Deflation, and Diversification. Checks the agent's contribution and the developer's or company's short-term benefit.
 - [`only_you.md`](checklists/only_you.md) — **Only yoU can beat AI.** Applies Read more, Write more, Meet more, and Talk more to check how original material and lived experience shape the agent's work.
 
+## The 5D Test: define the value
+
+The [5D Test](checklists/5d_test.md) helps you examine the disruption you are participating in, your agent's contribution, and the concrete short-term benefit to you or your company. Use it to define an outcome worth pursuing and revisit it with evidence from actual use.
+
+- **Disruptor:** change your industry's economics or what customers can obtain, and identify the agent's contribution to that change.
+- **Delivering:** get that contribution into real users' hands and show the useful outcome they receive.
+- **Disintermediation:** remove unnecessary steps, handoffs, or layers so users reach the outcome more directly, while retaining necessary review and accountability.
+- **Deflation:** make a valuable product or service dramatically cheaper, and examine whether that opens access to people previously priced out.
+- **Diversification:** use existing knowledge, relationships, or capabilities to make a new market, service, or customer solution economically possible.
+
+Look for evidence of **Disruptor + Delivering + at least one of Disintermediation, Deflation, or Diversification**. Explain how the agent contributes and how you or your company benefit; company success alone does not establish your own benefit. Separate planned benefits from observed results, and mark missing evidence **Unknown**.
+
+## Only yoU can beat AI: build the context
+
+[Only You](checklists/only_you.md) examines the original material and judgment you bring to an agent through four practices. **Read more:** engage with original human work or authoritative sources and record your own interpretation. **Write more:** develop original writing for another person, such as a memo, design document, or critique; prompts alone do not count. **Meet more:** capture firsthand learning from actual in-person encounters. **Talk more:** explain and test your ideas with people, in person or in live meetings, and record the questions, disagreements, and feedback that sharpen your judgment.
+
+Bring those sources, notes, writings, and conversations into the agent's context, then point to a specific decision or output they changed. Preserve the distinction between your contribution and AI assistance with transcription, organization, or editing. The review asks what would be missing without your experience and judgment, and identifies the human material still needed. In Close the Loop, apply it separately to each phase after defining the outcome so that every link in the value chain has evidence behind it.
+
 ## Close the loop: tokens to outcomes
 
 Understand and compress the value chain: **your work → team → organization → company → world**. Understand how each contribution supports the next, remove unnecessary steps, and bring the relevant context directly into the agent.
