@@ -1,8 +1,15 @@
 # unconspiracy-md
 
-Practical Markdown checklists from Anirudh Badam's *The AI Unconspiracy* that you can give your coding agent.
+AI Unconspiracy is my upcoming book. This repository is where its ideas become tools you can use today. I’m [Anirudh Badam](https://www.anirudh-badam.com), and I build AI for a living. The book starts with an uncomfortable observation: every company wants greater productivity, every customer wants lower prices, and every worker wants better tools. All perfectly rational. Yet together, those decisions can take us toward a future none of us actually wanted: when workers are laid off, the market loses consumers, and when consumers are gone, the companies will go down with them. Nobody needs to organize it. That’s the unconspiracy -- an unconscious conspiracy where we are all marching towards that doom by making individually rational decisions.
 
-**Coding is now about converting tokens to outcomes.** These files help connect what you build to measurable value through stakeholder context, original work, and evidence. Copy them into your project and use them during planning, implementation, and review. No prior reading or viewing is required.
+But understanding what’s happening is only useful if it changes what you do next. When everyone can access intelligence and execution gets cheaper, your advantage increasingly comes from the problems you notice, the context you bring, and the judgment you exercise. Your lived experience gives you reasons to build things that someone else might never think to ask for. The question becomes: what have you always wanted to fix, and how far can you now take it?
+
+That’s who these checklists are for: vibers. Developers building software with agents. Accountants automating work they understand firsthand. Anyone turning “there has to be a better way” into something that actually works. Getting an agent to produce an answer is easy. Defining what a good answer looks like, giving it the right context, and knowing whether it delivered still require care. Better vibing starts before the first prompt and continues after the agent says “done.”
+
+I’m creating this repository to turn the book’s ideas into practical checklists you can give your agents and use yourself. Use them to clarify the problem, surface assumptions, define success, and check the result. Bring them into your agent’s instructions or working context. Adapt them to your domain. The goal is to make your experience and judgment show up in what your agents build, so that faster execution translates into something worth having.
+
+The book is coming. The newsletter is available to subscribe to today. And this repo is where you can put the ideas to work. In the Unconspiracy newsletter, I explore what this transition means for developers, accountants, and everyone watching their profession change around them. Subscribe to follow the ideas as they develop, and star this repository for the checklists as I build them. Start with a problem you care about. Give your agent a clearer definition of success. See how far you can take it.
+
 
 ## Files
 
