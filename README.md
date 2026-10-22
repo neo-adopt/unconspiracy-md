@@ -18,6 +18,7 @@ The book is coming. The newsletter is available to subscribe to today. And this 
 - [`close_the_loop.md`](checklists/close_the_loop.md) — **Make Coding Hard Again: Close the Loop.** Define the outcome, connect company, organization, team, and individual contributions, then vibe and measure. Uses the two companion checklists throughout the process.
 - [`5d_test.md`](checklists/5d_test.md) — applies Anirudh Badam's five-D framework: Disruptor, Delivering, Disintermediation, Deflation, and Diversification. Checks the agent's contribution and the developer's or company's short-term benefit.
 - [`only_you.md`](checklists/only_you.md) — **Only yoU can beat AI.** Applies Read more, Write more, Meet more, and Talk more to check how original material and lived experience shape the agent's work.
+- [`let_me_struggle.md`](checklists/let_me_struggle.md) — **Let Me Struggle, Damn It.** Choose one task you still want to do manually after the agent goes live, then plan how to trace, question, test, break, and fix it. Preserve meaning, familiarity, and ownership through regular practice.
 
 ## The 5D Test: define the value
 
@@ -50,15 +51,24 @@ At minimum, complete the **5D assessment when defining the outcome**. Apply **On
 
 Without that context, you can spend months improving an agent that solves the wrong problem. Keep the loop open until evidence demonstrates the intended outcome. Working code and useful learning alone do not establish success. If you revise the target, record why and preserve the previous result.
 
+## Let Me Struggle, Damn It: keep your hands in the work
+
+[Let Me Struggle, Damn It](checklists/let_me_struggle.md) starts with a personal question: **When this agent goes live, what is one thing you still want to do manually because you enjoy it, care about it, or feel more capable when you do it yourself?**
+
+For that one task, make a plan for five practices: **trace** a result back to its sources; **question** an assumption or judgment; **test** ordinary and exceptional cases yourself; **break** something deliberately in an isolated practice environment; and **fix** it, verifying that you understand the recovery. Choose the scope, reserve time, and record what you actually learn.
+
+This is the path from hubris through humility to humanity. Assuming we can automate everything can leave us unfamiliar with work we remain responsible for. Give people room to struggle before an audit, outage, or difficult client question forces that lesson. Meaning and familiarity grow through participation; confidence has something concrete behind it when you have done the work yourself.
+
 ## Give the files to your coding agent
 
-1. Copy all three files into your project's `checklists/` directory, keeping them together so their relative links work.
+1. Copy all four files into your project's `checklists/` directory, keeping them together so their relative links work.
 2. Give your coding agent the prompt below, along with the task and any existing stakeholder notes, design documents, and measurements.
 3. Use its review to identify the human conversations, original writing, decisions, and evidence still needed. Bring that material back into the next iteration.
 
 ```text
 Read checklists/close_the_loop.md and its companion files,
-checklists/5d_test.md and checklists/only_you.md. Apply them to this task.
+checklists/5d_test.md and checklists/only_you.md. Also read
+checklists/let_me_struggle.md. Apply them to this task.
 
 Start by helping me define the outcome contract and complete the 5D
 assessment. Map how my work contributes to my team, organization,
@@ -74,6 +84,14 @@ Then help me vibe and measure. Compare results with the outcome
 contract, identify broken assumptions or missing context, and repeat
 the affected stakeholder work. Close the loop only when the intended
 outcome is supported by evidence.
+
+Before go-live, or now if the agent is already running, ask me what one
+task I still want to do manually and why it matters to me. Wait for my
+answer. Use Let Me Struggle to help me plan what I want to trace,
+question, test, break in an isolated environment, and fix. Agree on
+time, access, and when I want help. Leave room for my own attempt.
+Keep planned practice distinct from completed work and record my
+actual learning after each session.
 ```
 
 The companion checklists can also be used independently. Treat unsupported claims as unchecked, record each checklist's result, and re-run the relevant reviews when the agent's sources, instructions, tools, intended users, or outcome change materially.
